@@ -1,0 +1,6 @@
+BlusLee,5,breaking,True,1,394
+RuoxinSun,2,cornering,True,5,261
+SongsongXie,4,overtaking,True,8,383
+YuhanDing,1,breaking,True,13,259
+ZehaoSun,6,cornering,False,5,276
+Andrew,3,overtaking,True,19,264

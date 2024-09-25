@@ -1,0 +1,14 @@
+D:\wicresoft\Grand_Prix\Grand_Prix\bin\Debug\net8.0\Grand_Prix.exe
+D:\wicresoft\Grand_Prix\Grand_Prix\bin\Debug\net8.0\Grand_Prix.deps.json
+D:\wicresoft\Grand_Prix\Grand_Prix\bin\Debug\net8.0\Grand_Prix.runtimeconfig.json
+D:\wicresoft\Grand_Prix\Grand_Prix\bin\Debug\net8.0\Grand_Prix.dll
+D:\wicresoft\Grand_Prix\Grand_Prix\bin\Debug\net8.0\Grand_Prix.pdb
+D:\wicresoft\Grand_Prix\Grand_Prix\obj\Debug\net8.0\Grand_Prix.GeneratedMSBuildEditorConfig.editorconfig
+D:\wicresoft\Grand_Prix\Grand_Prix\obj\Debug\net8.0\Grand_Prix.AssemblyInfoInputs.cache
+D:\wicresoft\Grand_Prix\Grand_Prix\obj\Debug\net8.0\Grand_Prix.AssemblyInfo.cs
+D:\wicresoft\Grand_Prix\Grand_Prix\obj\Debug\net8.0\Grand_Prix.csproj.CoreCompileInputs.cache
+D:\wicresoft\Grand_Prix\Grand_Prix\obj\Debug\net8.0\Grand_Prix.dll
+D:\wicresoft\Grand_Prix\Grand_Prix\obj\Debug\net8.0\refint\Grand_Prix.dll
+D:\wicresoft\Grand_Prix\Grand_Prix\obj\Debug\net8.0\Grand_Prix.pdb
+D:\wicresoft\Grand_Prix\Grand_Prix\obj\Debug\net8.0\Grand_Prix.genruntimeconfig.cache
+D:\wicresoft\Grand_Prix\Grand_Prix\obj\Debug\net8.0\ref\Grand_Prix.dll
